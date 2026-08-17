@@ -1,8 +1,8 @@
 # Inteligência Artificial
 
-Esse repositório reúne os notebooks que fui fazendo ao longo da disciplina de Inteligência Artificial, turma 6B - noite.
+Esse repositório reúne os notebooks que fui fazendo ao longo da disciplina de Inteligência Artificial
 
-A ideia é ir subindo aqui cada atividade em Python conforme for entregando, sempre com o código comentado explicando o que cada parte faz.
+A ideia é ir subindo aqui cada atividade em Python conforme for entregando, sempre com o código comentado explicando o que cada parte faz
 
 ## O que tem aqui
 
